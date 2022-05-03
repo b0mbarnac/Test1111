@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="help">Подсказка</string>
+    <string name="send">Отправить ответ</string>
+    <string name="result">Результат: </string>
+    <string name="help_title">Показать подсказку </string>
+    <string name="help_y">Да </string>
+    <string name="help_n">Нет </string>
+    <string name="restart">Рестарт </string>
+    <string name="help_text">Вы точно хотите использовать подсказку? При использовании подсказки Вы получите 50% баллов. </string>
+</resources>
